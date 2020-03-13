@@ -595,7 +595,7 @@ header {
   display: -webkit-flex;
   display: flex;
   font-size: 0;
-  background-color: #000; }
+  background-color: rgba(0, 0, 0, 0.7); }
 
 .why-top__column {
   -webkit-box-flex: 0;
@@ -687,7 +687,7 @@ header {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #000000; }
+  background-color: rgba(0, 0, 0, 0.7); }
   @media (max-width: 479.98px) {
     .why-body-item__icon {
       -webkit-box-flex: 0;
